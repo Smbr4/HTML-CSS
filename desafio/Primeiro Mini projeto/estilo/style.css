@@ -109,7 +109,7 @@ main  p{
 }
 
 main img.grande {
-    padding: 6px; 
+    padding: 0px; 
     display: block;
     margin: auto;
 }
