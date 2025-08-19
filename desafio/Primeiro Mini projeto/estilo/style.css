@@ -109,12 +109,12 @@ main  p{
 }
 
 main img.grande {
-    padding: 0px; 
+    padding: 10px; 
     display: block;
     margin: auto;
 }
 main img.pequena{
-    max-width: 350px;
+    max-width: 250px;
     display: block;
     margin: auto;
 }
